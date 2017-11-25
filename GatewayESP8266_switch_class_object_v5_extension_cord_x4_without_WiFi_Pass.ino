@@ -78,8 +78,8 @@
 
 #define MY_GATEWAY_ESP8266
 
-#define MY_ESP8266_SSID "UPC8268667"
-#define MY_ESP8266_PASSWORD "Natalia8Marek8"
+#define MY_ESP8266_SSID "WiFi"
+#define MY_ESP8266_PASSWORD "Pass"
 
 // Enable UDP communication
 //#define MY_USE_UDP
